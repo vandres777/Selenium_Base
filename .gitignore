@@ -1,38 +1,40 @@
+# Compilación y ejecución de pruebas
 target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+build
 
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
-*.iml
-*.ipr
+# Dependencias de Maven
+.mvn/
 
-### Eclipse ###
-.apt_generated
+# Eclipse
 .classpath
-.factorypath
 .project
-.settings
-.springBeans
-.sts4-cache
+.settings/
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
+# Dependencias de Gradle
+.gradle
 
-### VS Code ###
-.vscode/
+# Dependencias de Node.js
+node_modules/
 
-### Mac OS ###
-.DS_Store
+# IDEs
+.idea/
+*.iml
+
+# Sistema de control de versiones
+.git/
+
+# Archivos de configuración local
+*.local
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de registro
+*.log
+
+# Archivos de configuración de Serenity BDD
+# serenity.properties //// este impide que suba el archivo properties al repositorio, mantener comentado  
+
+# Evitar ignorar el archivo jar envoltorio de Maven (.jar archivos son generalmente ignorados) // Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
+!.mvn/wrapper/maven-wrapper.jar
