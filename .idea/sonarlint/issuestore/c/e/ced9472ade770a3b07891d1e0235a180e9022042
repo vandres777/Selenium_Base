@@ -1,0 +1,20 @@
+
+~	java:S125'"<This block of commented-out lines of code should be removed.(ªÍ¾Ê8Êéúã2J$7837cb99-cd15-40ec-b872-47c40beebdfa
+~	java:S125-"<This block of commented-out lines of code should be removed.(Á±è»8©Óùíœ2J$63f7e6ac-e8f8-4255-b6de-d03d46044df8
+~	java:S1256"<This block of commented-out lines of code should be removed.(ö®å8ªÓùíœ2J$76940fbc-bd72-48df-9c6b-856931eecb7c
+ƒ	java:S125?"<This block of commented-out lines of code should be removed.(™øƒÛüÿÿÿÿ8ªÓùíœ2J$af31abb9-f21a-4063-a320-c98d8e2c1dd1
+ƒ
+java:S1854M"@Remove this useless assignment to local variable "resultsStats".(şŒ‚Ø8ªÓùíœ2J$72663581-2e8b-4ea9-b54a-b5edaa9cfce8
+t
+java:S1481M"1Remove this unused "resultsStats" local variable.(şŒ‚Ø8ªÓùíœ2J$77cacfd5-5e6c-4ead-9334-f5bfc6152841
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(»Œ­Úúÿÿÿÿ8ªÓùíœ2J$6394fc91-ce87-44ab-b1ad-3fa9e227d7e0
+g
+java:S2925o"$Remove this use of "Thread.sleep()".(¬Æ„°8¬Óùíœ2J$9c99d873-0ed5-4b06-873c-c3e5cbe7f333
+ƒ
+java:S1128"@Remove this unused import 'org.openqa.selenium.edge.EdgeDriver'.(ìÅ°°8íúùíœ2J$fc318ea3-9cb0-4b03-b7c1-4e49bd079549
+‰
+java:S1128"ARemove this unused import 'org.openqa.selenium.edge.EdgeOptions'.(Åëõ³úÿÿÿÿ8îúùíœ2J$ab8ec3af-d340-4df6-99f6-f1bf8c978822
+
+java:S1128"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ8îúùíœ2J$f4084046-4073-402b-aaba-bc52908fc0fc
+Š
+java:S1128"GRemove this unused import 'org.openqa.selenium.firefox.FirefoxOptions'.(ÙŸ•£8îúùíœ2J$af57fac5-ac5a-4234-8a29-c71cb44111d6
